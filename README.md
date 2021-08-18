@@ -15,4 +15,4 @@ Use our code and cite
 
 
 ## How to use
-python LDL_HR.py
+python LDLHR.py
