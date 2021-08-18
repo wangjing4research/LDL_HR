@@ -12,3 +12,7 @@ Use our code and cite
   >month = {Aug.}, \
   >year={2021}\
 >}
+
+
+## How to use
+python LDL_HR.py
